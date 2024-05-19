@@ -1,0 +1,3 @@
+C:/Users/arepc/CLionProjects/Yadro/cmake-build-debug/CMakeFiles/Yadro.dir
+C:/Users/arepc/CLionProjects/Yadro/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arepc/CLionProjects/Yadro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
